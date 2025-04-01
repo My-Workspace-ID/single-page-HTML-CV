@@ -1,0 +1,27 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin-left: 10px;
+    margin-top: 40px;
+    padding: 0;
+}
+
+h1 {
+    color: #333333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+h2 {
+    color:aqua
+
+}
+p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+li {
+    color: #007BFF;
+    text-decoration: none;
+}
